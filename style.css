@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:khaki;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color:saddlebrown;
+    font-weight: bold;
+    padding: 10px;
+    background-color:bisque;
+    border-radius: 10px;
+    border: 2px solid saddlebrown;
+    margin: 40px 40px;
+}
+
+ul {
+    font-family:monospace;
+    font-size: 15px;
+    background-color:bisque;
+    border-radius: 10px;
+    border: 2px solid saddlebrown;
+    color:rgb(41, 25, 0);
+    margin: 40px;
+    padding: 20px 40px;
+    padding-bottom:5px;
+    
+}
+
+a {
+    text-decoration: none;
+    color:rgb(41, 25, 0);
+    font-weight:bold;
+    padding: 5px;
+}
